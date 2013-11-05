@@ -3,7 +3,7 @@ pizza
 
 pizza randomizer
 
-## Scrapper
+## Scraper
 
 https://scraperwiki.com/scrapers/pizza_topping_scraper/
 
